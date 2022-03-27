@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: ad4a9fe4-40de-d1ea-0321-e199c3f6f5b8
 resourcetype: Document
 title: MIT6_035S10_decaf.pdf
 uid: 1b21d612-e072-d1aa-d797-f040a8bfdb6b

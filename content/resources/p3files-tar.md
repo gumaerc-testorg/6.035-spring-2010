@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: ad4a9fe4-40de-d1ea-0321-e199c3f6f5b8
 resourcetype: Other
 title: p3files.tar.gz
 uid: 18291de2-0452-d390-266a-ecc88bf9e912
