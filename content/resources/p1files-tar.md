@@ -5,6 +5,7 @@ file: /courses/6-035-computer-language-engineering-spring-2010/13a5428e5b8e45cc9
 file_type: application/x-tar
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: p1files.tar.gz
 uid: 13a5428e-5b8e-45cc-99fb-c58810e6d14c
 ---
 This is a supporting file for project 1.
-
