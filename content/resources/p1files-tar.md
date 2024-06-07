@@ -2,6 +2,7 @@
 content_type: resource
 description: This is a supporting file for project 1.
 file: /courses/6-035-computer-language-engineering-spring-2010/13a5428e5b8e45cc99fbc58810e6d14c_p1files.tar.gz
+file_size: 430732
 file_type: application/x-tar
 learning_resource_types:
 - Projects
