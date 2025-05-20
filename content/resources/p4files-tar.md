@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is a supporting file for project 4.
-file: /ol-ocw-studio-app/courses/6-035-computer-language-engineering-spring-2010/d8e65c0f0e2da9afcb5c392e31de4bfd_p4files.tar.gz
+file: /courses/6-035-computer-language-engineering-spring-2010/d8e65c0f0e2da9afcb5c392e31de4bfd_p4files.tar.gz
 file_size: 5249
 file_type: application/x-tar
 learning_resource_types:
